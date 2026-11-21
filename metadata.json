@@ -1,0 +1,6 @@
+{
+  "name": "Glacetor Remedies Pvt. Ltd.",
+  "description": "Science-led pharmaceuticals across cardiology, diabetes, neuro-psychiatry, gastro and nutrition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
